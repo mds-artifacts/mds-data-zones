@@ -27,6 +27,3 @@ python scripts/make_figures.py
 Figures are written to `output/figures/` (PDF, PNG and SVG); the counts behind each figure are written to
 `output/tables/`.
 
-## Licence
-
-Data: CC-BY 4.0. Code: MIT.
